@@ -1,0 +1,59 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Coder dog",
+      "likes": 21,
+      "image": "./assets/coder-dog.png"
+    },
+    {
+      "id": 2,
+      "title": "Coder cats",
+      "likes": 16,
+      "image": "./assets/coder-cat.jpeg"
+    },
+    {
+      "title": "my lovely dog",
+      "likes": 1,
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "content": "Someone's in trouble!",
+      "imageId": 2
+    },
+    {
+      "imageId": 1,
+      "content": "Funny dog!!",
+      "id": 4
+    },
+    {
+      "imageId": 1,
+      "content": "Hes a good boy!!",
+      "id": 5
+    },
+    {
+      "content": "my coder dog is great",
+      "imageId": 1,
+      "id": 8
+    },
+    {
+      "content": "I used to love dogs until I discovered cats",
+      "imageId": 2,
+      "id": 9
+    },
+    {
+      "content": "this is Ben",
+      "imageId": 3,
+      "id": 11
+    },
+    {
+      "content": "He is very cute ",
+      "imageId": 3,
+      "id": 12
+    }
+  ]
+}
